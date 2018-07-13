@@ -21,7 +21,7 @@ at anytime.
   *
 
 ### Changed
-  *
+  * fixes a condition where an incomplete stream would make CPU usage high
   *
 
 ### Added
